@@ -1,0 +1,13 @@
+
+
+wechat:
+  appId: #微信公众号的appid
+  appSecret: #微信公众号的appsecret
+  goodMornindTemplate: #微信公众号上创建的消息模板
+
+tianxing:
+  key: #天行API的key
+  area: 广州
+
+server:
+  port: 8090
